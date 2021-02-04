@@ -5,6 +5,8 @@ https://github.com/princemahajan
 
 SwARM is a second-order analytic propagator for absolute (or relative to a central gravitational body) and relative (i.e., relative to another satellite in orbit) motion of satellites in the presence of zonal, sectorial, and tesseral gravitational harmonic perturbations. 
 
+GUI screenshot: SwARMGUI.png
+
 Copyright 2021 Bharat Mahajan
 
 ----
