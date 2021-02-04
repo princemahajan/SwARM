@@ -7,8 +7,6 @@ SwARM is a second-order analytic propagator for absolute (or relative to a centr
 
 GUI screenshot: SwARMGUI.png
 
-Copyright 2021 Bharat Mahajan
-
 ----
 Tips
 ----
@@ -49,3 +47,20 @@ Research articles on which the code is based
 [6] Bharat Mahajan, S. R. Vadali, and K. T. Alfriend, “Analytic solution for satellite relative motion with zonal gravity perturbations,” In M. Majji, J. D. Turner, G. G. Wawrzyniak, and W. T. Cerven (Eds.), Astrodynamics 2015: Proceedings of the AAS/AIAA Astrodynamics Specialist Conference held August 9–13, 2015, Vail, Colorado, U.S.A. (pp. 3583-3598). [AAS 15-705] (Advances in Astronautical Sciences; Vol. 156). San Diego, California: Published for the American Astronautical Society by Univelt, Inc. (2016).
 
 
+-------
+LICENSE
+-------
+
+Copyright 2021 Bharat Mahajan (https://github.com/princemahajan)
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
