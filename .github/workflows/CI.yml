@@ -25,10 +25,10 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Setup MATLAB
-        uses: matlab-actions/setup-matlab@v2.2.0
+        uses: matlab-actions/setup-matlab@v2
 
       # Runs 
       - name: Run script
-        uses: matlab-actions/run-command@v2.2.0
+        uses: matlab-actions/run-command@v2
         with:
           command: SwARM      
